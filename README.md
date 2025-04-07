@@ -24,7 +24,6 @@
 
 <br>
 <p align="center">
-    <img src="https://github.com/KnightChaser/github-stats-copy/blob/master/generated/overview.svg">
     <img src="https://github.com/KnightChaser/github-stats-copy/blob/master/generated/languages.svg">
 </p>
 

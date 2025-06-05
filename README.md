@@ -12,8 +12,7 @@
 
 ## 🧑‍💻 I'm a Security Researcher in KR
 
-Hi, I'm DongHa — a passionate vulnerability researcher, CTF problem creator, and bug hunter with a special interest in **fuzzing**, and **AI for security**.  
-I’ve published CVEs and regularly contribute to security conferences, academic research, and open-source.
+Hi, I’m DongHa — a passionate vulnerability researcher, CTF challenge author, and bug hunter with a special interest in fuzzing and AI for security. I’ve published CVEs and regularly contribute to security conferences, academic research, and open-source projects.
 
 ---
 

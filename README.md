@@ -4,7 +4,7 @@
 > 
 > 🎂 2004.02.18 (22 y.o)
 > 
-> 📧 p@asswd.pw
+> 📧 p@sswd.pw
 > 
 > 🌐 [dongha.xyz](http://dongha.xyz)
 
@@ -124,7 +124,7 @@ Hi, I’m DongHa — a passionate vulnerability researcher, CTF challenge author
 
 ## 🌐 Contact Me
 
-- 📧 Email : [p@asswd.pw](mailto:p@asswd.pw)  
+- 📧 Email : [p@sswd.pw](mailto:p@sswd.pw)  
 - 💼 LinkedIn : [linkedin.com/in/0x0dongha](https://www.linkedin.com/in/0x0dongha/)  
 - 🧑‍💻 GitHub : [GAP-dev](https://github.com/GAP-dev)
 

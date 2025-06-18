@@ -7,6 +7,8 @@
 > 📧 p@sswd.pw
 > 
 > 🌐 [dongha.xyz](http://dongha.xyz)
+>
+> 🎮 Discord : lee_dongha
 
 ---
 

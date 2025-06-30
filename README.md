@@ -54,6 +54,7 @@ Hi, I’m DongHa — a passionate vulnerability researcher, CTF challenge author
 - CVE-2025-4605 | CVSS 5.5 / CWE-789 / Autodesk MAYA 2025 memory corruption  
 - CVE-2025-24184 | Apple iOS 18.3, visionOS 2.3, watchOS 11.3, tvOS 18.3, macOS Sequoia 15.3 CoreMedia Playback
 - CVE-2025-53015 | **RESERVED**
+and more...
 
 ---
 
@@ -72,7 +73,7 @@ Hi, I’m DongHa — a passionate vulnerability researcher, CTF challenge author
 
 ## 📝 Papers
 
-- [6/24/2025 CISC 발표 예정] | 한국정보보호학회  
+- 코퍼스 전이를 통한 상용 소프트웨어에 대한 바이너리 전용 퍼징 성능 향상 | 한국정보보호학회  
 - ReDoS 취약점탐지 도구의 동향 분석 및 개선을 통한 취약점 분석 연구 | 한국정보보호학회  
 - 프로토타입 오염 패턴 조사를 통한 Node.js 패키지 취약점 분석 연구 | 한국정보보호학회
 
@@ -103,6 +104,7 @@ Hi, I’m DongHa — a passionate vulnerability researcher, CTF challenge author
 
 ## 🎓 Education
 
+- Best of the Best 14기 취약점분석
 - 가천대학교 컴퓨터공학부 스마트보안전공 (2023년 3월 ~ )  
 - 한솔고등학교 졸업
 
@@ -110,7 +112,8 @@ Hi, I’m DongHa — a passionate vulnerability researcher, CTF challenge author
 
 ## 💼 Experience
 
-- SSA LAB – 학부 연구생 (2025년 1월 ~ 현재)  
+- SSA LAB – 학부 연구생 (2025년 1월 ~ 현재)
+- engineer - **private**
 - Speech Tools – S/W engineer (2024년 3월 ~ 2024년 9월)  
 - ZeroPointer – CEO (2023년 6월 ~ 2024년 9월)
 

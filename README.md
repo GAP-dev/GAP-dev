@@ -53,7 +53,7 @@ Hi, I’m DongHa — a passionate vulnerability researcher, CTF challenge author
 - CVE-2024-44915 | CVSS 5.5 / CWE-284 / Improper Access Control  
 - CVE-2025-4605 | CVSS 5.5 / CWE-789 / Autodesk MAYA 2025 memory corruption  
 - CVE-2025-24184 | Apple iOS 18.3, visionOS 2.3, watchOS 11.3, tvOS 18.3, macOS Sequoia 15.3 CoreMedia Playback
-- CVE-2025-53015 | **RESERVED**
+- CVE-2025-53015 | CVSS 7.5 / CWE-835 / XMP Profile bug
 and more...
 
 ---

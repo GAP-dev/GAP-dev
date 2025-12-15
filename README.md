@@ -59,6 +59,7 @@ Hi, I’m DongHa — a passionate vulnerability researcher, CTF challenge author
 - CVE-2025-43287 | Apple macOS/IOS/etc Tahoe 26.0 ImageIO
 - CVE-2025-10500 | Chromium gpu bug [+15000usd]
 - CVE-2025-43401 | Apple macOS/IOS/etc Tahoe 26.1 CoreAnimation
+- CVE-2025-43511 | Apple WebKit GPU bug [+1000usd]
 - CVE-2025-54372 | pendding
   
 and more...
@@ -107,6 +108,7 @@ and more...
 
 ## 🏆 Awards
 
+- 도로교통안전공단 TS 모의해킹 경진대회 4th place (2025.11)
 - 우리은행 제5회 우리콘 모의해킹 경진대회 1st place (2025.09)
 - 제 2 회 와글와글 해커톤 (1st place) (2024.02)  
 - 가천대학교 가천인재상 (2023.11)  
@@ -119,7 +121,7 @@ and more...
 ## 🎓 Education
 
 - Best of the Best 14기 취약점분석
-- 가천대학교 컴퓨터공학부 스마트보안전공 (2023년 ~ )  
+- 가천대학교 정보보호학과 (2023년 ~ )
 
 ---
 

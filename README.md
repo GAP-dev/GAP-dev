@@ -54,7 +54,7 @@ Hi, I’m DongHa — a passionate vulnerability researcher, CTF challenge author
 - CVE-2025-4605 | CVSS 5.5 / CWE-789 / Autodesk MAYA 2025 memory corruption  
 - CVE-2025-24184 | Apple iOS 18.3, visionOS 2.3, watchOS 11.3, tvOS 18.3, macOS Sequoia 15.3 CoreMedia Playback
 - CVE-2025-53015 | CVSS 7.5 / CWE-835 / XMP Profile bug
-- CVE-2025-43338 | Apple macOS/IOS/etc Tahoe 26.0 ImageIO
+- CVE-2025-43338 | Apple macOS/IOS/etc Tahoe 26.0 ImageIO [+1000usd]
 - CVE-2025-43372 | Apple macOS/IOS/etc Tahoe 26.0 CoreMedia [+1000usd]
 - CVE-2025-43287 | Apple macOS/IOS/etc Tahoe 26.0 ImageIO
 - CVE-2025-10500 | Chromium gpu bug [+15000usd]

@@ -60,6 +60,7 @@ Hi, I’m DongHa — a passionate vulnerability researcher, CTF challenge author
 - CVE-2025-10500 | Chromium gpu bug [+15000usd]
 - CVE-2025-43401 | Apple macOS/IOS/etc Tahoe 26.1 CoreAnimation
 - CVE-2025-43511 | Apple WebKit GPU bug [+1000usd]
+- CVE-2025-23339 | Nvidia CUDA Toolkit
 - CVE-2025-54372 | pendding
   
 and more...

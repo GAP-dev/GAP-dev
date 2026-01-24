@@ -96,6 +96,7 @@ and more...
 
 ## 🚀 Projects
 
+- Finding Vulnerabilities in Silicon macOS Virtualization
 - AFL++ opensource contribute  
 - LKL gpu kernel driver fuzzing project (2024)  
 - Hspace knights 활동 (2024)  

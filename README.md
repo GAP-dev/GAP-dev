@@ -64,9 +64,11 @@ Hi, I’m DongHa — a passionate vulnerability researcher, CTF challenge author
 - CVE-2026-20695 | ZDI-CAN-28499, Apple XNU Kernel Tahoe 26.3
 - CVE-2026-28868 | Apple XNU Kernel Tahoe 26.3 [+1000usd]
 - CVE-2026-28817 | Apple macOS/IOS/etc Tahoe 26.3 Print [+20000usd]
-- CVE-2025-54372 | pendding
+- ~~CVE-2025-54372 | pendding~~
   
-and more...
+~~and more...~~
+**Discontinued due to AI**
+
 
 ---
 
@@ -85,11 +87,12 @@ and more...
 
 ## 📝 Papers
 
+- 문서화되지 않은 macOS 인터페이스 식별을 통한 퍼블릭 프레임워크-XPC 서비스 의존성 그래프 생성 및 공격 표면 분석 | (KCI 저널)
 - 하이브리드 퍼징 연구 동향 및 기술적 챌린지 분석 | 한국정보보호학회
 - 정적 분석 및 동적 분석을 통한 안드로이드 퍼징 하네스 생성 | 한국정보보호학회
 - LLM 기반 소프트웨어 취약점 분석 연구 동향 및 기술적 챌린지 분석 | 한국정보보호학회
 - XPC 및 IOKit 기반 macOS 공격 표면 식별 자동화* | 한국정보보호학회
-- ARM 가상화의 공격 표면과 취약점 분석에 관한 연구* | KTCCS(KCI 저널)
+- Towards Automated Vulnerability Analysis in ARM-based Virtualization* | KTCCS(KCI 저널)
 - macOS 커널 디버깅을 위한 심볼 이식 기법 연구 | 한국정보처리학회
 - 코퍼스 전이를 통한 상용 소프트웨어에 대한 바이너리 전용 퍼징 성능 향상* | 한국정보보호학회  
 - ReDoS 취약점탐지 도구의 동향 분석 및 개선을 통한 취약점 분석 연구* | 한국정보보호학회  
@@ -113,6 +116,7 @@ and more...
 
 ## 🏆 Awards
 
+- DEFCON 34 FINAL 7th (2026.08)
 - 한국정보보호학회 우수 논문상 (2025.11)
 - 도로교통안전공단 TS 모의해킹 경진대회 4th place (2025.11)
 - 우리은행 제5회 우리콘 모의해킹 경진대회 1st place (2025.09)
@@ -132,8 +136,8 @@ and more...
 ---
 
 ## 💼 Experience
-
-- SSA LAB – 학부 연구생 (2025년 1월 ~ 현재)
+- suspended (2026년 6월 ~ 현재)
+- SSA LAB – 학부 연구생 (2025년 1월 ~ 2026년 5월)
 - engineer - **private**
 
 ---

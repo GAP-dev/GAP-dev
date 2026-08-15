@@ -120,6 +120,7 @@ Hi, I’m DongHa — a passionate vulnerability researcher, CTF challenge author
 - SekaiCTF 2026 7th place (2026.06)
 - DEFCON 34 CTF Qualifier 6th place (2026.05)
 - TJCTF 2026 1st place (2026.05)
+- CODEGATE 2026 Qualifier CTF general 4th place (2026.03)
 - 한국정보보호학회 우수 논문상 (2025.11)
 - 도로교통안전공단 TS 모의해킹 경진대회 4th place (2025.11)
 - 우리은행 제5회 우리콘 모의해킹 경진대회 1st place (2025.09)

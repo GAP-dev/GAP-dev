@@ -69,6 +69,7 @@ Hi, I’m DongHa — a passionate vulnerability researcher, CTF challenge author
 ~~and more...~~
 **Discontinued due to AI**
 
+- CVE-2026-85062 | **!!My First CVE in 2023!!** ReDoS in Colord NPM module
 
 ---
 

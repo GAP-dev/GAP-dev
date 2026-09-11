@@ -88,6 +88,7 @@ Hi, I’m DongHa — a passionate vulnerability researcher, CTF challenge author
 
 ## 📝 Papers
 
+- 심볼릭 실행 기반 LLM 에이전트를 통한 허니팟 스마트 컨트랙트 탐지 방법론 제안 | 한국정보보호학회
 - 문서화되지 않은 macOS 인터페이스 식별을 통한 퍼블릭 프레임워크-XPC 서비스 의존성 그래프 생성 및 공격 표면 분석 | (KCI 저널)
 - 하이브리드 퍼징 연구 동향 및 기술적 챌린지 분석 | 한국정보보호학회
 - 정적 분석 및 동적 분석을 통한 안드로이드 퍼징 하네스 생성 | 한국정보보호학회
